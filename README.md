@@ -5,9 +5,9 @@
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> Hi, I am a passionate guy about technology, you can see a little of my portfolio in programming.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m a FullStack Mobile Developer
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I really do everything
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/gabrielborgess/)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time 
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> I never stop learning
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Ask me anything
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> i'm from 🇻🇪
 
 
 
