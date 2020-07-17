@@ -7,7 +7,7 @@
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I really do everything
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> I never stop learning
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Ask me anything
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> i'm from 🇻🇪
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> i'm from :venezuela:
 
 
 
