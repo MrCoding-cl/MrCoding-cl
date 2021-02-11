@@ -17,8 +17,8 @@
  <a href="mailto:gbordesc@uft.edu"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/mrcoding-cl"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/mrcoding/"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://discord.com/users/ggcst#8613"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/mrcoding_cl"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+ <a href="https://discord.com/users/mrcoding#8613"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/mrcodingCL"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://mrcoding.dev"><img src="https://github.com/gabrielborgess/gabrielborgess/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
 
